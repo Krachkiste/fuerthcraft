@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug report (Minecraft-Server)
+about: Hier kannst du Bugs/Fehler von unserem Minecraft Server melden
 title: ''
 labels: ''
 assignees: ''
