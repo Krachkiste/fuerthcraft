@@ -23,16 +23,5 @@ Eine klare und genaue Beschreibung, was du anstelle dieses Bugs erwartet hättes
 **Screenshots**
 Wenn möglich, füge Screenshots oder Bilder hinzu, um es leichter zu machen, dein Problem zu beschreiben.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Weitere Informationen**
+Füge hier alle weiteren Informationen hinzu, die mit dem Problem zu tun haben.
