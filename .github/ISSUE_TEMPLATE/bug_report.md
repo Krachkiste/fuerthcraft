@@ -1,6 +1,6 @@
 ---
 name: Fehler Melden
-about: Hier kannst du Bugs/Fehler melden
+about: Melde Bugs/Fehler an uns, damit wir sie beheben können.
 title: ''
 labels: ''
 assignees: ''
