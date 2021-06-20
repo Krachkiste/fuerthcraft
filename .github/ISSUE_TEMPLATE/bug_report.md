@@ -18,7 +18,7 @@ Schritte, um dieses Bug zu reproduzieren:
 4. Siehe Fehler
 
 **Erwartetes Verhalten**
-Eine klare und genaue Beschreibung, was du anstelle diesem Bug erwartet hättest.
+Eine klare und genaue Beschreibung, was du anstelle dieses Bugs erwartet hättest.
 
 **Screenshots & Bilder**
 Wenn möglich, füge Screenshots oder Bilder hinzu, um es leichter zu machen, dein Problem zu beschreiben.
