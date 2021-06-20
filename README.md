@@ -1,0 +1,2 @@
+# fuerthcraft
+Die FürthCraft-Repository
