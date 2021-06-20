@@ -1,6 +1,6 @@
 ---
 name: Bug report (Minecraft-Server)
-about: Hier kannst du Bugs/Fehler von unserem Minecraft Server melden
+about: Hier kannst du Bugs/Fehler unseres Minecraft Servers melden
 title: ''
 labels: ''
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Beschreibe den Bug**
-Eine klare und genaue Beschreibung, was dieser Bug ist.
+Eine klare und genaue Beschreibung über den Bug.
 
 **Zum Reproduzieren**
 Schritte, um dieses Bug zu reproduzieren:
@@ -17,10 +17,10 @@ Schritte, um dieses Bug zu reproduzieren:
 3. Scrolle zu '....'
 4. Siehe Fehler
 
-**Expected behavior**
-Eine klare und genaue Beschreibung, was du anstelle dieses Bugs erwartet hättest.
+**Erwartetes Verhalten**
+Eine klare und genaue Beschreibung, was du anstelle diesem Bug erwartet hättest.
 
-**Screenshots**
+**Screenshots & Bilder**
 Wenn möglich, füge Screenshots oder Bilder hinzu, um es leichter zu machen, dein Problem zu beschreiben.
 
 **Weitere Informationen**
