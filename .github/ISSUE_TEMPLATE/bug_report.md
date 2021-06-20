@@ -7,21 +7,21 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Beschreibe den Bug**
+Eine klare und genaue Beschreibung, was dieser Bug ist.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Zum Reproduzieren**
+Schritte, um dieses Bug zu reproduzieren:
+1. Gehe zu '...'
+2. Klicke auf '....'
+3. Scrolle zu '....'
+4. Siehe Fehler
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Eine klare und genaue Beschreibung, was du anstelle dieses Bugs erwartet hättest.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Wenn möglich, füge Screenshots oder Bilder hinzu, um es leichter zu machen, dein Problem zu beschreiben.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
