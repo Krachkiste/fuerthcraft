@@ -41,6 +41,6 @@
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
 
 ### Experimental
-- [fc_todo](https://) (Private)
+- fc_todo (Private)
 - [Geyser](https://github.com/GeyserMC/Geyser)
   - [Floodgate](https://github.com/GeyserMC/Floodgate)
