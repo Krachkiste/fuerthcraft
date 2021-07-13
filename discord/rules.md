@@ -1,6 +1,5 @@
 **Allgemeine Regeln:**
 [1] Kein Spam, Copy Pastas, usw.
-
 [2] Verhaltet euch normal (Wenn ihr denkt, dass etwas nicht erlaubt ist, dann macht es auch nicht :wink:)
 [3] Seid respektvoll gegenüber Anderen (Keine Beleidigungen, Mobbing usw.)
 [4] Keine Werbung (Jedoch mit der Ausnahme, dass ihr es nicht übertreibt, ist Eigenwerbung (Musik, YouTube Channel, usw.) erlaubt)
