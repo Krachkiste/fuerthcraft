@@ -1,5 +1,5 @@
 # All Plugins we use on our Server (sorted by name)
-### -> Active Plugins
+### Active Plugins
 - [plugin](url)
 - [plugin](url)
 - [plugin](url)
@@ -12,13 +12,13 @@
 - [plugin](url)
 - [plugin](url)
 
-### -> Inactive Plugins
+### Inactive Plugins
 - [plugin](url)
 - [plugin](url)
 - [plugin](url)
 - [plugin](url)
 - [plugin](url)
 
-### -> Experimental
+### Experimental
 - [plugin](url)
 - [plugin](url)
