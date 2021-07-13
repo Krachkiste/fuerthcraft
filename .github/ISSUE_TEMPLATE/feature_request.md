@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Bezieht sich deine Anfrage auf ein Problem? Bitte beschreibe es.**
+Eine klare und prägnante Beschribung über das Problem. z.B. Es frustriert mich immer wenn [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Beschreibe die Lösung die Du Dir vorstellst.**
+Eine klare und prägnante Beschreibung von dem, was Deiner Meinung nach passieren soll. 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Beschreibe Alternativen, die Du in Betracht gezogen hast.**
+Eine klare und prägnante Beschreibung jeglicher Alternativen oder Funktionen die Du in Betracht gezogen hast.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Zusätzlicher Kontext.**
+Füge hier anderen Kontext oder Screenshots über die Anfrage hier ein.
