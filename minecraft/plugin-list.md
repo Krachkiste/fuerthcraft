@@ -24,7 +24,7 @@
 - [LightAPI](https://www.spigotmc.org/resources/lightapi-fork.48247/)
 - [LuckPerms](https://luckperms.net/)
 - [Multiverse-Core](https://dev.bukkit.org/projects/multiverse-core)
-  - [Multiverse-Inventories]()
+  - [Multiverse-Inventories](https://dev.bukkit.org/projects/multiverse-inventories/)
   - [Multiverse-NetherPortals](https://dev.bukkit.org/projects/multiverse-netherportals/)
   - [Multiverse-Portals](https://dev.bukkit.org/projects/multiverse-portals/)
   - [Multiverse-SignPortals](https://dev.bukkit.org/projects/multiverse-signportals/)
