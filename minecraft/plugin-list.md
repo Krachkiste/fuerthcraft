@@ -31,6 +31,11 @@
 - [MySkin](https://www.spigotmc.org/resources/myskin-1-8-x-1-16-5.52303/)
 - [NBT API](https://www.spigotmc.org/resources/nbt-api.7939/)
 - [NoteBlockAPI](https://www.spigotmc.org/resources/noteblockapi.19287/)
+- [OpenInv](https://dev.bukkit.org/projects/openinv)
+- [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
+  - [PlayTimes](https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/)
+- [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
+- [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
 
 ### Inactive Plugins
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
