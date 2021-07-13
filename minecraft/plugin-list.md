@@ -20,6 +20,7 @@
 - []()
 - [FurnitureLibary/ProtectionLib](https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/)
   - [DiceFurniture](https://www.spigotmc.org/resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/)
+  - [FurnitureMaker](https://www.spigotmc.org/resources/furnituremaker.20667/)
 - []()
 - []()
 - []()
