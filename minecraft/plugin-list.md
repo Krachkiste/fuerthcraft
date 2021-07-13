@@ -13,11 +13,7 @@
 - [plugin](url)
 
 ### Inactive Plugins
-- [plugin](url)
-- [plugin](url)
-- [plugin](url)
-- [plugin](url)
-- [plugin](url)
+- [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
 
 ### Experimental
 - [Floodgate](https://github.com/GeyserMC/Floodgate)
