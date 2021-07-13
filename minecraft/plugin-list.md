@@ -1,4 +1,4 @@
-# All Bukkit-Plugins we use on our Server (sorted by name)
+# All Bukkit-Plugins we use on our Minecraft-Server
 ### Active Plugins
 - [BanItem](https://www.spigotmc.org/resources/banitem-1-7-1-17.67701/)
 - [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/)
