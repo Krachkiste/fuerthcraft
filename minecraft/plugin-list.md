@@ -12,8 +12,8 @@
   - [EssentialsX GeoIP](https://essentialsx.net/downloads.html)
   - [EssentialsX Protect](https://essentialsx.net/downloads.html)
   - [EssentialsX Spawn](https://essentialsx.net/downloads.html)
-- []()
-- []()
+- [FastAsyncVoxelSniper](https://intellectualsites.github.io/download/favs.html)
+- [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)
 - []()
 - []()
 - []()
@@ -33,5 +33,6 @@
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
 
 ### Experimental
+- [fc_todo](https://)
 - [Geyser](https://github.com/GeyserMC/Geyser)
   - [Floodgate](https://github.com/GeyserMC/Floodgate)
