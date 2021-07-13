@@ -36,11 +36,22 @@
   - [PlayTimes](https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/)
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
 - [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
+- [Skript](https://github.com/SkriptLang/Skript/releases)
+  - [AdvancementsAddon](https://skripttools.net/addons?q=AdvancementsAddon)
+  - [Ersatz](https://skripttools.net/addons?q=Ersatz)
+  - [reqn](https://skripttools.net/addons?q=reqn)
+  - [Skellett](https://skripttools.net/addons?q=Skellett)
+  - [SkQuery](https://skripttools.net/addons?q=SkQuery)
+  - [Skript-Mirror](https://skripttools.net/addons?q=skript-mirror)
+  - [skUtilities](https://skripttools.net/addons?q=skUtilities)
+  - [skWhitelist](https://skripttools.net/addons?q=skWhitelist)
+  - [Vixio](https://skripttools.net/addons?q=Vixio)
+- []()
 
 ### Inactive Plugins
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
 
 ### Experimental
-- *fc_todo (Private)*
+- fc_todo *(Private)*
 - [Geyser](https://github.com/GeyserMC/Geyser)
   - [Floodgate](https://github.com/GeyserMC/Floodgate)
