@@ -46,7 +46,12 @@
   - [skUtilities](https://skripttools.net/addons?q=skUtilities)
   - [skWhitelist](https://skripttools.net/addons?q=skWhitelist)
   - [Vixio](https://skripttools.net/addons?q=Vixio)
-- []()
+- [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/)
+- TAB *(Unknown URL)*
+- [TrailGUI](https://www.spigotmc.org/resources/trailgui.1091/)
+- [Vault](https://www.spigotmc.org/resources/vault.34315/)
+- Whitelist *(Unknown URL)*
+- [Worldguard](https://dev.bukkit.org/projects/worldguard)
 
 ### Inactive Plugins
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
