@@ -6,7 +6,19 @@
 - [Command Panels](https://www.spigotmc.org/resources/command-panels-custom-guis.67788/)
 - [ConsoleSpamFix](https://www.spigotmc.org/resources/console-spam-fix.18410/)
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
-- [FurnitureLibary / ProtectionLib](https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/)
+- [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
+- [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)
+  -
+  -
+  -
+  -
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- [FurnitureLibary/ProtectionLib](https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/)
   - [DiceFurniture](https://www.spigotmc.org/resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/)
 - []()
 - []()
