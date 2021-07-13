@@ -28,7 +28,9 @@
   - [Multiverse-NetherPortals](https://dev.bukkit.org/projects/multiverse-netherportals/)
   - [Multiverse-Portals](https://dev.bukkit.org/projects/multiverse-portals/)
   - [Multiverse-SignPortals](https://dev.bukkit.org/projects/multiverse-signportals/)
-- []()
+- [MySkin](https://www.spigotmc.org/resources/myskin-1-8-x-1-16-5.52303/)
+- [NBT API](https://www.spigotmc.org/resources/nbt-api.7939/)
+- [NoteBlockAPI](https://www.spigotmc.org/resources/noteblockapi.19287/)
 
 ### Inactive Plugins
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
