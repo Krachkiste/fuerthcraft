@@ -7,6 +7,7 @@ body:
     attributes:
       value: |
         # Technische Informationen
+        **Tipp:** Du musst nicht alle Technischen Informationen angeben, wenn du der Meinung bist, dass diese nicht relevant sind.
   - type: dropdown
     id: version
     validations:
@@ -38,10 +39,6 @@ body:
         - 1.12.2 oder älter
         - Unbekannt
         - Andere
-  - type: markdown
-    attributes:
-      value: |
-        *Du musst nicht alle Technischen Informationen angeben, wenn du der Meinung bist, dass diese nicht relevant sind.*
   - type: dropdown
     id: client
     validations:
