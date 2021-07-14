@@ -1,6 +1,6 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
+name: Fehler Melden
+description: Melde Bugs/Fehler an uns, damit wir sie beheben können.
+title: "[Bug] "
 labels: [bug, triage]
 assignees:
   - octocat
