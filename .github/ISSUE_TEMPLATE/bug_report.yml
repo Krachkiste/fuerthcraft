@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Über den Bug
+        # Technische Informationen
   - type: dropdown
     id: version
     validations:
@@ -38,6 +38,10 @@ body:
         - 1.12.2 oder älter
         - Unbekannt
         - Andere
+  - type: markdown
+    attributes:
+      value: |
+        # Über den Bug
   - type: textarea
     id: what-happened
     attributes:
@@ -65,7 +69,16 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Weitere Informationen
+        # Anderes
+  - type: textarea
+    id: more
+    attributes:
+      label: Weitere Informationen
+      description: Füge hier alle weiteren Informationen hinzu, die mit dem Problem zu tun haben.
+      placeholder: |
+        Weitere relevante Informationen kannst du uns hier mitteilen!
+    validations:
+      required: false
   - type: input
     id: contact
     attributes:
