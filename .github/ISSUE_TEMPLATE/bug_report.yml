@@ -41,33 +41,19 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Kontakt-Details
+      description: Wie können wir dich erreichen, wenn wir mehr Informationen benötigen?
+      placeholder: email@example.com
     validations:
       required: false
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Was ist passiert?
+      description: Erzähle uns auch, was du erwartet hättest.
+      placeholder: Beschreibe den Bug hier.
     validations:
       required: true
-
-    validations:
-      required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
     id: logs
     attributes:
