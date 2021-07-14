@@ -10,6 +10,7 @@ body:
     attributes:
       label: Version
       description: Welche Version der Minecraft Java Edition hast du benutzt?
+      multiple: false
       options:
         - 1.17.1
         - 1.17
@@ -30,7 +31,7 @@ body:
         - 1.13.2
         - 1.13.1
         - 1.13
-        - Älter
+        - 1.12.2 oder älter
   - type: markdown
     attributes:
       value: |
