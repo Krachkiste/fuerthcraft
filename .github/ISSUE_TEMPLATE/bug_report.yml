@@ -38,16 +38,19 @@ body:
         - 1.12.2 oder älter
         - Unbekannt
         - Andere
-  - type: checkboxes
+  - type: dropdown
     id: client
+    validations:
+      required: true
     attributes:
-      label: Client
+      label: Minecraft Client
       description: Wenn du nicht die normale Version von Minecraft benutzt hast, dann kreuze bitte an, welchen Client du benutzt hast.
+      multiple: false
       options:
-        - label: Forge
-        - label: Fabric
-        - label: Badlion
-        - label: Keines von den gelisteten
+        - Forge
+        - Fabric
+        - Badlion
+        - Keines von den gelisteten
   - type: input
     id: mods
     attributes:
