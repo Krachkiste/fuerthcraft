@@ -5,12 +5,12 @@ labels: [bug, triage]
 body:
   - type: dropdown
     id: version
+    validations:
+      required: true
     attributes:
       label: Minecraft Version
       description: Welche Version der Minecraft Java Edition hast du zu diesem Zeitpunkt benutzt?
       multiple: false
-      validations:
-        required: true
       options:
         - 1.17.1
         - 1.17
