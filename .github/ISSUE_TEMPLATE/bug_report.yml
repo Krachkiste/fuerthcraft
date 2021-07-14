@@ -49,7 +49,7 @@ body:
       description: |
         Erzähle uns auch, was du stattdessen erwartet hättest.
         Es wäre sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen und Fehler-Nachrichten hier anhängen könntest.
-      placeholder: Beschreibe den Bug hier.
+      placeholder: Beschreibe den Bug so genau wie möglich.
     validations:
       required: true
   - type: textarea
