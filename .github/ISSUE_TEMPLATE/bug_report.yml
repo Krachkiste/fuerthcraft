@@ -108,8 +108,8 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Kontakt-Informationen
+      label: Kontakt-Informationen (Öffentlich)
       description: Wie können wir dich erreichen, wenn wir weitere Informationen benötigen?
-      placeholder: email@example.com
+      placeholder: mail@example.com
     validations:
       required: false
