@@ -1,6 +1,6 @@
 name: Fehler Melden (WIP)
 description: Melde Bugs/Fehler an uns, damit wir sie beheben können.
-title: "[Bug] "
+title: ""
 labels: [bug, triage]
 body:
   - type: markdown
@@ -57,15 +57,14 @@ body:
         Es wäre auch hier sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen hier anhängen könntest.
       placeholder: |
         1. Gehe zu '...'
-        2. Klicke auf '....'
-        3. Scrolle zu '....'
-        4. Siehe Fehler
+        2. Platziere '...'
+        3. Gebe '...' ein
+        4. Siehe Fehler '...'
     validations:
       required: true
   - type: markdown
     attributes:
       value: |
-        
         # Weitere Informationen
   - type: input
     id: contact
