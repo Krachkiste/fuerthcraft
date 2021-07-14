@@ -1,7 +1,6 @@
-name: Fehler Melden (WIP)
+name: Fehler Melden
 description: Melde Bugs/Fehler an uns, damit wir sie beheben können.
-title: "[Bug]: "
-labels: [bug, triage]
+labels: [bug]
 body:
   - type: markdown
     attributes:
