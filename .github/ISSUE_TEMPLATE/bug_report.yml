@@ -2,8 +2,7 @@ name: Fehler Melden (WIP)
 description: Melde Bugs/Fehler an uns, damit wir sie beheben können.
 title: "[Bug] "
 labels: [bug, triage]
-assignees:
-  - octocat
+assignees: ''
 body:
   - type: dropdown
     id: version
@@ -11,6 +10,8 @@ body:
       label: Minecraft Version
       description: Welche Version der Minecraft Java Edition hast du zu diesem Zeitpunkt benutzt?
       multiple: false
+      validations:
+        required: true
       options:
         - 1.17.1
         - 1.17
@@ -32,6 +33,8 @@ body:
         - 1.13.1
         - 1.13
         - 1.12.2 oder älter
+        - Unbekannt
+        - Andere
   - type: markdown
     attributes:
       value: |
