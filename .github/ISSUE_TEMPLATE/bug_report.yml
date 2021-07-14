@@ -5,6 +5,32 @@ labels: [bug, triage]
 assignees:
   - octocat
 body:
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Welche Version der Minecraft Java Edition hast du benutzt?
+      options:
+        - 1.17.1
+        - 1.17
+        - 1.16.5
+        - 1.16.4
+        - 1.16.3
+        - 1.16.2
+        - 1.16.1
+        - 1.16
+        - 1.15.2
+        - 1.15.1
+        - 1.15
+        - 1.14.4
+        - 1.14.3
+        - 1.14.2
+        - 1.14.1
+        - 1.14
+        - 1.13.2
+        - 1.13.1
+        - 1.13
+        - Älter
   - type: markdown
     attributes:
       value: |
@@ -26,14 +52,7 @@ body:
       value: "A bug happened!"
     validations:
       required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+
     validations:
       required: true
   - type: dropdown
