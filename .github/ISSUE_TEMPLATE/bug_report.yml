@@ -60,11 +60,3 @@ body:
       placeholder: Beschreibe den Bug hier.
     validations:
       required: true
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: Screenshots
-      description: Falls du weitere Relevante Dateien hast, dann lade sie hier bitte hoch.
-      placeholder: Upload your file here
-    validations:
-      required: true
