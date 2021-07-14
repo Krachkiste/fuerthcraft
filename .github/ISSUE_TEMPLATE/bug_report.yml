@@ -40,11 +40,9 @@ body:
         - Andere
   - type: dropdown
     id: client
-    validations:
-      required: true
     attributes:
       label: Minecraft Client
-      description: Wenn du nicht die normale Version von Minecraft benutzt hast, dann kreuze bitte an, welchen Client du benutzt hast.
+      description: Wenn du nicht die normale Version von Minecraft benutzt hast, dann wähle bitte einen der unteren Optionen.
       multiple: false
       options:
         - Forge
