@@ -8,8 +8,8 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
-      description: Welche Version der Minecraft Java Edition hast du benutzt?
+      label: Minecraft Version
+      description: Welche Version der Minecraft Java Edition hast du zu diesem Zeitpunkt benutzt?
       multiple: false
       options:
         - 1.17.1
