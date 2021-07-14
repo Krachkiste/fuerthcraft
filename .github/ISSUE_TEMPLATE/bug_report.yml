@@ -40,14 +40,22 @@ body:
         - Andere
   - type: dropdown
     id: client
+    validations:
+      required: false
     attributes:
       label: Minecraft Client
-      description: Wenn du nicht die normale Version von Minecraft benutzt hast, dann wähle bitte einen der unteren Optionen.
+      description: |
+        Wenn du nicht die normale Version von Minecraft benutzt hast, dann wähle bitte einen der unteren Optionen.
       multiple: false
       options:
-        - Forge
-        - Fabric
         - Badlion
+        - Cosmic Client
+        - Fabric
+        - Forge
+        - LabyMod
+        - Lunar Client
+        - nicht gelistet
+
         - Keines von den gelisteten
   - type: input
     id: mods
