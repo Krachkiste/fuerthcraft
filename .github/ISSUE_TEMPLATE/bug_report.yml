@@ -54,7 +54,17 @@ body:
     id: what-happened
     attributes:
       label: Was ist passiert?
-      description: Erzähle uns auch, was du stattdessen erwartet hättest.
+      description: |
+        Erzähle uns auch, was du stattdessen erwartet hättest.
+        Es wäre sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen und Fehler-Nachrichten hier anhängen könntest.
       placeholder: Beschreibe den Bug hier.
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Screenshots
+      description: Falls du weitere Relevante Dateien hast, dann lade sie hier bitte hoch.
+      placeholder: Upload your file here
     validations:
       required: true
