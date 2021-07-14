@@ -50,7 +50,7 @@ body:
     id: what-happened
     attributes:
       label: Was ist passiert?
-      description: Erzähle uns auch, was du erwartet hättest.
+      description: Erzähle uns auch, was du stattdessen erwartet hättest.
       placeholder: Beschreibe den Bug hier.
     validations:
       required: true
