@@ -48,6 +48,20 @@ body:
       placeholder: Beschreibe den Bug hier.
     validations:
       required: true
+  - type: textarea
+    id: how-to-reproduce
+    attributes:
+      label: Wie können wir den Bug reproduzieren?
+      description: |
+        Zeige uns Schritt für Schritt, wie wir diesen Bug nachstellen können.
+        Es wäre auch hier sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen hier anhängen könntest.
+      placeholder: |
+        1. Gehe zu '...'
+        2. Klicke auf '....'
+        3. Scrolle zu '....'
+        4. Siehe Fehler
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
