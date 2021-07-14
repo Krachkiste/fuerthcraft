@@ -54,8 +54,6 @@ body:
         - Forge
         - LabyMod
         - Lunar Client
-        - nicht gelistet
-
         - Keines von den gelisteten
   - type: input
     id: mods
