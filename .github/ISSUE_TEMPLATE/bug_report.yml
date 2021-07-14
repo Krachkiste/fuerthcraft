@@ -1,4 +1,4 @@
-name: Fehler Melden
+name: Fehler Melden (WIP)
 description: Melde Bugs/Fehler an uns, damit wir sie beheben können.
 title: "[Bug] "
 labels: [bug, triage]
