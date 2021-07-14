@@ -63,7 +63,7 @@ body:
         1. Gehe zu '...'
         2. Platziere '....'
         3. Suche nach '....'
-        4. Siehe Fehler '...'
+        4. Siehe Fehler
     validations:
       required: true
   - type: markdown
