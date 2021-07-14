@@ -46,7 +46,7 @@ body:
     attributes:
       label: Minecraft Client
       description: |
-        Wenn du nicht die normale Version von Minecraft benutzt hast, dann wähle bitte einen der unteren Optionen.
+        Wenn du nicht die normale Version von Minecraft benutzt hast, dann wähle bitte eine der unteren Optionen.
       multiple: false
       options:
         - Badlion
