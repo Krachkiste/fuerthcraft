@@ -38,6 +38,10 @@ body:
         - 1.12.2 oder älter
         - Unbekannt
         - Andere
+  - type: markdown
+    attributes:
+      value: |
+        *Du musst nicht alle Technischen Informationen angeben, wenn du der Meinung bist, dass diese nicht relevant sind.*
   - type: dropdown
     id: client
     validations:
@@ -59,7 +63,8 @@ body:
     id: mods
     attributes:
       label: Mods
-      description: Falls du Mods benutzt hast, liste sie hier auf (siehe "Client")
+      description: |
+        Falls du Mods benutzt hast, liste sie hier auf.
       placeholder: z.B. OptiFine, TooManyItems, Mod Menu
     validations:
       required: false
