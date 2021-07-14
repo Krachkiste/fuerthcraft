@@ -61,7 +61,7 @@ body:
         Es wäre auch hier sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen hier anhängen könntest.
       placeholder: |
         1. Gehe zu '...'
-        2. Platziere '....'
+        2. Drücke '....'
         3. Suche nach '....'
         4. Siehe Fehler
     validations:
