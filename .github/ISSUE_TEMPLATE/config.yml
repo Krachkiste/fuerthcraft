@@ -1,1 +1,5 @@
-
+blank_issues_enabled: false
+contact_links:
+  - name: Häufig gestellte Fragen
+    url: https://fuerthcraft.de/faq
+    about: Schaue dir unser FAQ an, bevor du Fragen stellst.
