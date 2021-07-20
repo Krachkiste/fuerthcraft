@@ -3,9 +3,9 @@ contact_links:
   - name: 📚 Häufig gestellte Fragen
     url: https://fuerthcraft.de/faq
     about: Schaue dir unser FAQ an, bevor du Fragen stellst.
-   - name: 💬 Community Support
-    url: https://github.com/FuerthCraft/fuerthcraft/discussions/categories/community-support
-    about: Hier kannst du andere um Hilfe fragen.
-   - name: 📖 Wiki
-    url: https://github.com/FuerthCraft/fuerthcraft/wiki
-    about: Schaue dir unser FAQ an, bevor du Fragen stellst.
+  - name: 💬 Community Support
+   url: https://github.com/FuerthCraft/fuerthcraft/discussions/categories/community-support
+   about: Hier kannst du andere um Hilfe fragen.
+  - name: 📖 Wiki
+   url: https://github.com/FuerthCraft/fuerthcraft/wiki
+   about: Schaue dir unser FAQ an, bevor du Fragen stellst.
