@@ -1,0 +1,115 @@
+name: 🌟 Wünsche & Vorschläge
+description: Schlage eine Idee für unser Projekt vor.
+labels: [request,enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Technische Informationen
+        **Tipp:** Du musst nicht alle Technischen Informationen angeben, wenn du der Meinung bist, dass diese nicht relevant sind.
+  - type: dropdown
+    id: version
+    validations:
+      required: true
+    attributes:
+      label: Minecraft Version
+      description: Welche Version der Minecraft Java Edition hast du zu diesem Zeitpunkt benutzt?
+      multiple: false
+      options:
+        - 1.17.1
+        - 1.17
+        - 1.16.5
+        - 1.16.4
+        - 1.16.3
+        - 1.16.2
+        - 1.16.1
+        - 1.16
+        - 1.15.2
+        - 1.15.1
+        - 1.15
+        - 1.14.4
+        - 1.14.3
+        - 1.14.2
+        - 1.14.1
+        - 1.14
+        - 1.13.2
+        - 1.13.1
+        - 1.13
+        - 1.12.2 oder älter
+        - Unbekannt
+        - Andere
+  - type: dropdown
+    id: client
+    validations:
+      required: false
+    attributes:
+      label: Minecraft Client
+      description: |
+        Wenn du nicht die normale Version von Minecraft benutzt hast, dann wähle bitte eine der unten stehenden Optionen.
+      multiple: false
+      options:
+        - Badlion
+        - Cosmic Client
+        - Fabric
+        - Forge
+        - LabyMod
+        - Lunar Client
+        - Keines der gelisteten
+  - type: input
+    id: mods
+    attributes:
+      label: Modifikationen
+      description: |
+        Falls du Mods benutzt hast, liste sie hier auf.
+      placeholder: z.B. OptiFine, TooManyItems, Mod Menu
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        # Über den Bug
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Was ist passiert?
+      description: |
+        Erzähle uns auch, was du stattdessen erwartet hättest.
+        Es wäre sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen und Fehler-Nachrichten hier anhängen könntest.
+      placeholder: Beschreibe uns den Bug so genau wie möglich.
+    validations:
+      required: true
+  - type: textarea
+    id: how-to-reproduce
+    attributes:
+      label: Wie können wir den Bug reproduzieren?
+      description: |
+        Zeige uns Schritt für Schritt, wie wir diesen Bug nachstellen können.
+        Es wäre auch hier sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen hier anhängen könntest.
+      placeholder: |
+        1. Gehe zu '...'
+        2. Drücke '....'
+        3. Suche nach '....'
+        4. Siehe Fehler
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        # Anderes
+  - type: textarea
+    id: more
+    attributes:
+      label: Weitere Informationen
+      description: Füge hier alle weiteren Informationen hinzu, die mit dem Problem zu tun haben.
+      placeholder: |
+        Weitere relevante Informationen kannst du uns hier mitteilen!
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Kontakt-Informationen (Öffentlich)
+      description: Wie können wir dich erreichen, wenn wir weitere Informationen benötigen?
+      placeholder: mail@example.com
+    validations:
+      required: false
