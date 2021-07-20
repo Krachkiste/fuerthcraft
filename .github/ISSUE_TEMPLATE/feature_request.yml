@@ -1,6 +1,6 @@
 name: 🌟 Wünsche & Vorschläge
 description: Schlage eine Idee für unser Projekt vor.
-labels: [request,enhancement]
+labels: [request]
 body:
   - type: markdown
     attributes:
