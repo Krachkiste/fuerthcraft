@@ -5,6 +5,10 @@ body:
   - type: markdown
     attributes:
       value: |
+        # WICHTIG: Wünsche & Vorschläge sind momentan noch in Arbeit!
+  - type: markdown
+    attributes:
+      value: |
         # Technische Informationen
         **Tipp:** Du musst nicht alle Technischen Informationen angeben, wenn du der Meinung bist, dass diese nicht relevant sind.
   - type: dropdown
