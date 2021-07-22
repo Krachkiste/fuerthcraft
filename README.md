@@ -13,5 +13,5 @@ Links:
 - [Foren](https://github.com/FuerthCraft/fuerthcraft/discussions)
 
 Hilfe:
-- [Wiki](https://github.com/FuerthCraft/fuerthcraft/wiki)
-- [Report Issue](https://github.com/FuerthCraft/fuerthcraft/issues/new/choose)
+- [FürthCraft-Wiki](https://github.com/FuerthCraft/fuerthcraft/wiki)
+- [Fehler Melden](https://github.com/FuerthCraft/fuerthcraft/issues/new/choose)
