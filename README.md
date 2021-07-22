@@ -1,6 +1,4 @@
-**FürthCraft** - Wir bauen Fürth!
-
--
+## FürthCraft - Wir bauen Fürth!
 Herzlich Willkommen zum Projekt „FürthCraft“.
 
 Du spielst gerne Minecraft und willst mit anderen Fürther Jugendlichen an spannenden Bauprojekten teilnehmen?
