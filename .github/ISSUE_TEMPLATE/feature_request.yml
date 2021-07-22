@@ -26,16 +26,16 @@ body:
       description: |
         Beschreibe, inwiefern sich deine Anfrage auf ein Problem bezieht.
         Du kannst hier zusätzlich noch Screenshots/Bildaufnahmen anhängen.
-      placeholder: Eine klare und prägnante Beschribung über das Problem. z.B. Es frustriert mich immer wenn [...]
+      placeholder: |
+        Eine klare und prägnante Beschribung über das Problem. z.B. Es frustriert mich immer wenn [...]
     validations:
       required: false
   - type: textarea
     id: suggestion
     attributes:
-      label: Beschreibe deinen Vorschlag / Lösung.
+      label: Beschreibe deinen Vorschlag
       description: |
-        Zeige uns Schritt für Schritt, wie wir diesen Bug nachstellen können.
-        Es wäre auch hier sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen hier anhängen könntest.
+        Du kannst auch hier zusätzlich noch Screenshots/Bildaufnahmen anhängen.
       placeholder: |
         Eine klare und prägnante Beschreibung über deinen Vorschlag oder wie wir das Problem lösen können.
     validations:
