@@ -28,11 +28,11 @@ body:
         Du kannst hier zusätzlich noch Screenshots/Bildaufnahmen anhängen.
       placeholder: Eine klare und prägnante Beschribung über das Problem. z.B. Es frustriert mich immer wenn [...]
     validations:
-      required: true
+      required: false
   - type: textarea
     id: how-to-reproduce
     attributes:
-      label: Wie können wir den Bug reproduzieren?
+      label: Beschreibe deine/n Lösung/Vorschlag.
       description: |
         Zeige uns Schritt für Schritt, wie wir diesen Bug nachstellen können.
         Es wäre auch hier sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen hier anhängen könntest.
