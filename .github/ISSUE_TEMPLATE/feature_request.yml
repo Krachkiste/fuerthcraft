@@ -24,9 +24,9 @@ body:
     attributes:
       label: Beschreibe deinen Vorschlag
       description: |
-        Erzähle uns auch, was du stattdessen erwartet hättest.
-        Es wäre sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen und Fehler-Nachrichten hier anhängen könntest.
-      placeholder: Beschreibe uns den Bug so genau wie möglich.
+        Bezieht sich deine Anfrage auf ein Problem? Bitte beschreibe es.
+        Du kannst hier zusätzlich noch Screenshots/Bildaufnahmen anhängen.
+      placeholder: Eine klare und prägnante Beschribung über das Problem. z.B. Es frustriert mich immer wenn [...]
     validations:
       required: true
   - type: textarea
