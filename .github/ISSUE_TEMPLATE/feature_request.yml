@@ -48,7 +48,7 @@ body:
     id: more
     attributes:
       label: Zusätzlicher Kontext
-      description: Füge hier alle weiteren Informationen hinzu, die mit dem Problem zu tun haben.
+      description: Füge hier alle weiteren Informationen hinzu, die mit dem Vorschlag zu tun haben.
       placeholder: |
         Weitere relevante Informationen kannst du uns hier mitteilen!
     validations:
