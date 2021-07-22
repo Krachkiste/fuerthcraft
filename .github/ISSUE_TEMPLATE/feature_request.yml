@@ -18,6 +18,7 @@ body:
         - Ein neues Feature
         - Eine Verbesserung
         - Eine Ergänzung
+        - Eine Alternative
         - Etwas Anderes
   - type: textarea
     id: problem
