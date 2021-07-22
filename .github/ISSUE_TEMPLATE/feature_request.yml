@@ -20,7 +20,7 @@ body:
         - Eine Ergänzung
         - Etwas Anderes
   - type: textarea
-    id: suggestion
+    id: problem
     attributes:
       label: Hat deine Anfrage mit einem Problem zu tun?
       description: |
@@ -30,17 +30,14 @@ body:
     validations:
       required: false
   - type: textarea
-    id: how-to-reproduce
+    id: suggestion
     attributes:
-      label: Beschreibe deine/n Lösung/Vorschlag.
+      label: Beschreibe deinen Vorschlag / Lösung.
       description: |
         Zeige uns Schritt für Schritt, wie wir diesen Bug nachstellen können.
         Es wäre auch hier sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen hier anhängen könntest.
       placeholder: |
-        1. Gehe zu '...'
-        2. Drücke '....'
-        3. Suche nach '....'
-        4. Siehe Fehler
+        Eine klare und prägnante Beschreibung über deinen Vorschlag oder wie wir das Problem lösen können.
     validations:
       required: true
   - type: markdown
