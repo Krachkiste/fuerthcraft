@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📚 Häufig gestellte Fragen
-    url: https://fuerthcraft.de/faq
+    url: https://fuerthcraft.github.io/faq
     about: Schaue dir unser FAQ an, bevor du Fragen stellst.
   - name: 💬 Community Support
-    url: https://github.com/FuerthCraft/fuerthcraft/discussions/categories/community-support
+    url: https://fuerthcraft.github.io/community-support
     about: Hier kannst du andere um Hilfe fragen.
   - name: 👩‍🏫 FürthCraft Wiki
-    url: https://github.com/FuerthCraft/fuerthcraft/wiki/Hauptseite
+    url: https://fuerthcraft.github.io/wiki
     about: Schaue dir unser FAQ an, bevor du Fragen stellst.
