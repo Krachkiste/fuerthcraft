@@ -1,4 +1,4 @@
-# Willkommen auf FürthCraft
+# FürthCraft - Wir bauen Fürth!
 Herzlich Willkommen zum Projekt „FürthCraft“.
 
 Du spielst gerne Minecraft und willst mit anderen Fürther Jugendlichen an spannenden Bauprojekten teilnehmen?
@@ -8,7 +8,7 @@ Wir treffen uns jeden Dienstag ab 17:00 Uhr im Connect oder ab 18:00 Uhr auf Dis
 
 ## Wichtige Links
 
-**Allgemeine Links:**
+**Allgemein:**
 - [Anmeldung](https://connectlive.de/Archive/5296)
 - [Website](https://fuerthcraft.de)
 - [Foren](https://fuerthcraft.github.io/discussions)
