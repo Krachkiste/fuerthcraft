@@ -5,28 +5,24 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Über deinen Vorschlag/Wunsch
+        # Über deinen Vorschlag
   - type: dropdown
     id: type
     validations:
       required: true
     attributes:
       label: Was möchtest du vorschlagen?
-      description: Um welche Art Vorschlag/Wunsch handelt es sich?
+      description: Um welche Art Vorschlag handelt es sich?
       multiple: false
       options:
         - Ein neues Feature
         - Eine Verbesserung
         - Eine Ergänzung
         - Etwas Anderes
-  - type: markdown
-    attributes:
-      value: |
-        # Über den Bug
   - type: textarea
-    id: what-happened
+    id: suggestion
     attributes:
-      label: Was ist passiert?
+      label: Beschreibe deinen Vorschlag
       description: |
         Erzähle uns auch, was du stattdessen erwartet hättest.
         Es wäre sehr hilfreich, wenn du zusätzlich noch Screenshots/Bildaufnahmen und Fehler-Nachrichten hier anhängen könntest.
