@@ -9,9 +9,8 @@ Wir treffen uns jeden Dienstag ab 17:00 Uhr im Connect oder ab 18:00 Uhr auf Dis
 Links:
 - [Anmeldung](https://connectlive.de/Archive/5296)
 - [Website](https://fuerthcraft.de)
-- [GitHub Pages](https://fuerthcraft.github.io)
-- [Foren](https://github.com/FuerthCraft/fuerthcraft/discussions)
+- [Foren](https://fuerthcraft.github.io/discussions)
 
 Hilfe:
-- [FürthCraft-Wiki](https://github.com/FuerthCraft/fuerthcraft/wiki)
-- [Issues & Hilfe](https://github.com/FuerthCraft/fuerthcraft/issues/new/choose)
+- [FürthCraft-Wiki](https://fuerthcraft.github.io/wiki)
+- [Issues & Hilfe](https://fuerthcraft.github.io/help)
