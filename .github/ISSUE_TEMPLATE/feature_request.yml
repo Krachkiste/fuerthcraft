@@ -12,7 +12,7 @@ body:
       required: true
     attributes:
       label: Was möchtest du vorschlagen?
-      description: Um welche Art Vorschlag handelt es sich?
+      description: Wähle aus, um welche Art Vorschlag es sich handelt.
       multiple: false
       options:
         - Ein neues Feature
