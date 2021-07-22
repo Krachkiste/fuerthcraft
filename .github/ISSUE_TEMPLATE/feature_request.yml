@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Über dein Vorschlag
+        # Über deinen Vorschlag / Wunsch
   - type: dropdown
     id: type
     validations:
@@ -15,7 +15,8 @@ body:
       description: Welche Version der Minecraft Java Edition hast du zu diesem Zeitpunkt benutzt?
       multiple: false
       options:
-        - Eine Verbesserung
+        - Ein Neues Feature
+        - Eine Ergänzung/Verbesserung
         - Etwas Anderes
   - type: markdown
     attributes:
