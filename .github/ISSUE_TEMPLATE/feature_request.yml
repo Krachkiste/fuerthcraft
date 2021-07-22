@@ -22,9 +22,9 @@ body:
   - type: textarea
     id: suggestion
     attributes:
-      label: Beschreibe deinen Vorschlag
+      label: Hat deine Anfrage mit einem Problem zu tun?
       description: |
-        Bezieht sich deine Anfrage auf ein Problem? Bitte beschreibe es.
+        Beschreibe, inwiefern sich deine Anfrage auf ein Problem bezieht.
         Du kannst hier zusätzlich noch Screenshots/Bildaufnahmen anhängen.
       placeholder: Eine klare und prägnante Beschribung über das Problem. z.B. Es frustriert mich immer wenn [...]
     validations:
