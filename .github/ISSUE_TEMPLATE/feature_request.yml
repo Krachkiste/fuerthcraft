@@ -12,7 +12,7 @@ body:
       required: true
     attributes:
       label: Was möchtest du vorschlagen?
-      description: Welche Version der Minecraft Java Edition hast du zu diesem Zeitpunkt benutzt?
+      description: Um welche Art Vorschlag / Wunsch handelt es sich?
       multiple: false
       options:
         - Ein Neues Feature
