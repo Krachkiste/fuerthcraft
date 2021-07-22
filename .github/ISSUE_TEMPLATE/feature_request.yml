@@ -50,7 +50,7 @@ body:
   - type: textarea
     id: more
     attributes:
-      label: Weitere Informationen
+      label: Zusätzlicher Kontext
       description: Füge hier alle weiteren Informationen hinzu, die mit dem Problem zu tun haben.
       placeholder: |
         Weitere relevante Informationen kannst du uns hier mitteilen!
