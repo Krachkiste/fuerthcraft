@@ -12,62 +12,16 @@ body:
         # Technische Informationen
         **Tipp:** Du musst nicht alle Technischen Informationen angeben, wenn du der Meinung bist, dass diese nicht relevant sind.
   - type: dropdown
-    id: version
+    id: type
     validations:
       required: true
     attributes:
-      label: Minecraft Version
+      label: Was möchtest du vorschlagen?
       description: Welche Version der Minecraft Java Edition hast du zu diesem Zeitpunkt benutzt?
       multiple: false
       options:
-        - 1.17.1
-        - 1.17
-        - 1.16.5
-        - 1.16.4
-        - 1.16.3
-        - 1.16.2
-        - 1.16.1
-        - 1.16
-        - 1.15.2
-        - 1.15.1
-        - 1.15
-        - 1.14.4
-        - 1.14.3
-        - 1.14.2
-        - 1.14.1
-        - 1.14
-        - 1.13.2
-        - 1.13.1
-        - 1.13
-        - 1.12.2 oder älter
-        - Unbekannt
-        - Andere
-  - type: dropdown
-    id: client
-    validations:
-      required: false
-    attributes:
-      label: Minecraft Client
-      description: |
-        Wenn du nicht die normale Version von Minecraft benutzt hast, dann wähle bitte eine der unten stehenden Optionen.
-      multiple: false
-      options:
-        - Badlion
-        - Cosmic Client
-        - Fabric
-        - Forge
-        - LabyMod
-        - Lunar Client
-        - Keines der gelisteten
-  - type: input
-    id: mods
-    attributes:
-      label: Modifikationen
-      description: |
-        Falls du Mods benutzt hast, liste sie hier auf.
-      placeholder: z.B. OptiFine, TooManyItems, Mod Menu
-    validations:
-      required: false
+        - Eine Verbesserung
+        - Etwas Anderes
   - type: markdown
     attributes:
       value: |
