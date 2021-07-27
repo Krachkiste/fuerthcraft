@@ -50,6 +50,7 @@
 - TAB *(Unknown URL)*
 - [TrailGUI](https://www.spigotmc.org/resources/trailgui.1091/)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
+- [Vivecraft Spigot Extensions](https://github.com/jrbudda/Vivecraft_Spigot_Extensions/releases)
 - Whitelist *(Unknown URL)*
 - [Worldguard](https://dev.bukkit.org/projects/worldguard)
 
