@@ -1,7 +1,7 @@
 ### All Plugins that have updated to Minecraft Version 1.17.1
 
 # Minecraft Server.jar
-- [ ] [PaperMC](https://papermc.io/)
+- [x] [PaperMC](https://papermc.io/)
 
 # All Bukkit-Plugins we use on our Minecraft-Server
 ### Active Plugins
