@@ -1,5 +1,5 @@
-# PaperMC
-https://papermc.io
+# Minecraft Server
+- [PaperMC](https://papermc.io)
 
 # All Bukkit-Plugins we use on our Minecraft-Server
 ### Active Plugins
