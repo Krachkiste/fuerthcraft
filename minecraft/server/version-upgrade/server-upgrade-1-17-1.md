@@ -5,12 +5,12 @@
 
 # All Bukkit-Plugins we use on our Minecraft-Server
 ### Active Plugins
-- [ ] [BanItem](https://www.spigotmc.org/resources/banitem-1-7-1-17.67701/)
-- [ ] [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/)
-- [ ] [BookNews](https://www.spigotmc.org/resources/booknews-1-8-1-17.61163/)
-- [ ] [Command Panels](https://www.spigotmc.org/resources/command-panels-custom-guis.67788/)
+- [x] [BanItem](https://www.spigotmc.org/resources/banitem-1-7-1-17.67701/)
+- [x] [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/)
+- [x] [BookNews](https://www.spigotmc.org/resources/booknews-1-8-1-17.61163/)
+- [x] [Command Panels](https://www.spigotmc.org/resources/command-panels-custom-guis.67788/)
 - [ ] [ConsoleSpamFix](https://www.spigotmc.org/resources/console-spam-fix.18410/)
-- [ ] [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
+- [x] [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
 - [ ] [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
 - [ ] [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)
   - [ ] [EssentialsX Chat](https://essentialsx.net/downloads.html)
