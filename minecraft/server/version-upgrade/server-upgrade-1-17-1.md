@@ -42,7 +42,7 @@
 - [x] [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
 - [x] [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
 - [x] **(Beta)** [Skript](https://github.com/SkriptLang/Skript/releases)
-  - [ ] [AdvancementsAddon](https://skripttools.net/addons?q=AdvancementsAddon)
+  - [?] [AdvancementsAddon](https://skripttools.net/addons?q=AdvancementsAddon)
   - [ ] [Ersatz](https://skripttools.net/addons?q=Ersatz)
   - [ ] [reqn](https://skripttools.net/addons?q=reqn)
   - [ ] [Skellett](https://skripttools.net/addons?q=Skellett)
