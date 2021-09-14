@@ -1,4 +1,4 @@
-## All Plugins that have updated to Minecraft Version 1.17.1
+### All Plugins that have updated to Minecraft Version 1.17.1
 
 # PaperMC
 https://papermc.io
