@@ -51,18 +51,18 @@
   - [?] [skUtilities](https://skripttools.net/addons?q=skUtilities)
   - [?] [skWhitelist](https://skripttools.net/addons?q=skWhitelist)
   - [?] [Vixio](https://skripttools.net/addons?q=Vixio)
-- [ ] [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/)
+- [x] [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/)
 - [ ] TAB *(Unknown URL)*
 - [ ] [TrailGUI](https://www.spigotmc.org/resources/trailgui.1091/)
-- [ ] [Vault](https://www.spigotmc.org/resources/vault.34315/)
-- [ ] [Vivecraft Spigot Extensions](https://github.com/jrbudda/Vivecraft_Spigot_Extensions/releases)
+- [x] [Vault](https://www.spigotmc.org/resources/vault.34315/)
+- [x] **(Beta)** [Vivecraft Spigot Extensions](https://github.com/jrbudda/Vivecraft_Spigot_Extensions/releases)
 - [ ] Whitelist *(Unknown URL)*
-- [ ] [Worldguard](https://dev.bukkit.org/projects/worldguard)
+- [x] [Worldguard](https://dev.bukkit.org/projects/worldguard)
 
 ### Inactive Plugins
-- [ ] [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
+- [x] [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
 
 ### Experimental
 - [ ] fc_todo *(Private)*
-- [ ] [Geyser](https://github.com/GeyserMC/Geyser)
-  - [ ] [Floodgate](https://github.com/GeyserMC/Floodgate)
+- [x] [Geyser](https://github.com/GeyserMC/Geyser)
+  - [x] [Floodgate](https://github.com/GeyserMC/Floodgate)
