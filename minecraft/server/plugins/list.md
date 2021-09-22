@@ -41,13 +41,9 @@
 - [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
 - [Skript](https://github.com/SkriptLang/Skript/releases)
   - [AdvancementsAddon](https://skripttools.net/addons?q=AdvancementsAddon)
-  - [Ersatz](https://skripttools.net/addons?q=Ersatz)
-  - [reqn](https://skripttools.net/addons?q=reqn)
   - [Skellett](https://skripttools.net/addons?q=Skellett)
-  - [SkQuery](https://skripttools.net/addons?q=SkQuery)
   - [Skript-Mirror](https://skripttools.net/addons?q=skript-mirror)
   - [skUtilities](https://skripttools.net/addons?q=skUtilities)
-  - [skWhitelist](https://skripttools.net/addons?q=skWhitelist)
   - [Vixio](https://skripttools.net/addons?q=Vixio)
 - [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/)
 - TAB *(Unknown URL)*
@@ -60,6 +56,10 @@
 ### Inactive Plugins
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
 - [LPC](https://www.spigotmc.org/resources/lpc-chat-formatter.68965/)
+- [skWhitelist](https://skripttools.net/addons?q=skWhitelist)
+- [SkQuery](https://skripttools.net/addons?q=SkQuery)
+- [Ersatz](https://skripttools.net/addons?q=Ersatz)
+- [reqn](https://skripttools.net/addons?q=reqn)
 
 ### Experimental
 - fc_todo *(Private)*
