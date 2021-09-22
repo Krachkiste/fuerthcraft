@@ -59,6 +59,7 @@
 
 ### Inactive Plugins
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
+- [LPC](https://www.spigotmc.org/resources/lpc-chat-formatter.68965/)
 
 ### Experimental
 - fc_todo *(Private)*
