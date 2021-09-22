@@ -56,10 +56,10 @@
 ### Inactive Plugins
 - [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
 - [LPC](https://www.spigotmc.org/resources/lpc-chat-formatter.68965/)
-- [skWhitelist](https://skripttools.net/addons?q=skWhitelist)
-- [SkQuery](https://skripttools.net/addons?q=SkQuery)
-- [Ersatz](https://skripttools.net/addons?q=Ersatz)
-- [reqn](https://skripttools.net/addons?q=reqn)
+- [skWhitelist](https://skripttools.net/addons?q=skWhitelist) *(Not working)*
+- [SkQuery](https://skripttools.net/addons?q=SkQuery) *(Not working)*
+- [Ersatz](https://skripttools.net/addons?q=Ersatz) *(Not working)*
+- [reqn](https://skripttools.net/addons?q=reqn) *(Not working)*
 
 ### Experimental
 - fc_todo *(Private)*
