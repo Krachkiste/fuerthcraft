@@ -25,7 +25,7 @@
 - [x] [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-17-x.62325/)
 - [x] [HolographicDisplays](https://dev.bukkit.org/projects/holographic-displays)
 - [x] [ImageMaps](https://dev.bukkit.org/projects/imagemaps)
-- [ ] [InteractiveBooks](https://www.spigotmc.org/resources/interactivebooks.45604/)
+- [x] [InteractiveBooks](https://www.spigotmc.org/resources/interactivebooks.45604/)
 - [x] [LightAPI](https://www.spigotmc.org/resources/lightapi-fork.48247/)
 - [x] [LuckPerms](https://luckperms.net/)
 - [x] [Multiverse-Core](https://dev.bukkit.org/projects/multiverse-core)
