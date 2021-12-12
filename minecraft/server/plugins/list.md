@@ -12,7 +12,6 @@
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
 - [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)
   - [EssentialsX Chat](https://essentialsx.net/downloads.html)
-  - [EssentialsX GeoIP](https://essentialsx.net/downloads.html)
   - [EssentialsX Protect](https://essentialsx.net/downloads.html)
   - [EssentialsX Spawn](https://essentialsx.net/downloads.html)
 - [FastAsyncVoxelSniper](https://intellectualsites.github.io/download/favs.html)
