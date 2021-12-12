@@ -16,8 +16,6 @@
   - [EssentialsX Spawn](https://essentialsx.net/downloads.html)
 - [FastAsyncVoxelSniper](https://intellectualsites.github.io/download/favs.html)
 - [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)
-- [FurnitureLibary/ProtectionLib](https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/)
-  - [FurnitureMaker](https://www.spigotmc.org/resources/furnituremaker.20667/)
 - [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-17-x.62325/)
 - [HolographicDisplays](https://dev.bukkit.org/projects/holographic-displays)
 - [ImageMaps](https://dev.bukkit.org/projects/imagemaps)
@@ -38,11 +36,6 @@
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
 - [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
 - [Skript](https://github.com/SkriptLang/Skript/releases)
-  - [AdvancementsAddon](https://skripttools.net/addons?q=AdvancementsAddon)
-  - [Skellett](https://skripttools.net/addons?q=Skellett)
-  - [Skript-Mirror](https://skripttools.net/addons?q=skript-mirror)
-  - [skUtilities](https://skripttools.net/addons?q=skUtilities)
-  - [Vixio](https://skripttools.net/addons?q=Vixio)
 - [SuperVanish](https://www.spigotmc.org/resources/supervanish-be-invisible.1331/)
 - TAB *(Unknown URL)*
 - [TrailGUI](https://www.spigotmc.org/resources/trailgui.1091/)
@@ -50,14 +43,6 @@
 - [Vivecraft Spigot Extensions](https://github.com/jrbudda/Vivecraft_Spigot_Extensions/releases)
 - Whitelist *(Unknown URL)*
 - [Worldguard](https://dev.bukkit.org/projects/worldguard)
-
-### Inactive Plugins
-- [ChatColor](https://www.spigotmc.org/resources/chatcolor.22692/)
-- [LPC](https://www.spigotmc.org/resources/lpc-chat-formatter.68965/)
-- [skWhitelist](https://skripttools.net/addons?q=skWhitelist) *(Not working)*
-- [SkQuery](https://skripttools.net/addons?q=SkQuery) *(Not working)*
-- [Ersatz](https://skripttools.net/addons?q=Ersatz) *(Not working)*
-- [reqn](https://skripttools.net/addons?q=reqn) *(Not working)*
 
 ### Experimental
 - fc_todo *(Private)*
