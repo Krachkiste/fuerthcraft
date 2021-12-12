@@ -18,7 +18,6 @@
 - [FastAsyncVoxelSniper](https://intellectualsites.github.io/download/favs.html)
 - [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)
 - [FurnitureLibary/ProtectionLib](https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/)
-  - [DiceFurniture](https://www.spigotmc.org/resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/)
   - [FurnitureMaker](https://www.spigotmc.org/resources/furnituremaker.20667/)
 - [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-17-x.62325/)
 - [HolographicDisplays](https://dev.bukkit.org/projects/holographic-displays)
