@@ -2,7 +2,7 @@
 - [PaperMC](https://papermc.io)
 
 # All Bukkit-Plugins we use on our Minecraft-Server
-### Active Plugins
+### Plugins
 - [BanItem](https://www.spigotmc.org/resources/banitem-1-7-1-17.67701/)
 - [BlueMap](https://www.spigotmc.org/resources/bluemap.83557/)
 - [BookNews](https://www.spigotmc.org/resources/booknews-1-8-1-17.61163/)
